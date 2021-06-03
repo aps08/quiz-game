@@ -14,6 +14,7 @@ Once you have press any key on the keyboard the game will start loading 10 quest
 - ``game.h``  file contains all the function declaration
 - ``game.cpp`` file contains all the function definition.
 - ``main.cpp`` file import above file for calling and implementation.
+- Download : ``git clone https://github.com/aps08/quiz-game``
 
 
 ### Notice 
