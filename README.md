@@ -16,9 +16,9 @@ Once you have press any key on the keyboard the game will start loading 10 quest
 
 
 ### Notice 
-- When you run this file it create a text file in the same directory which contains the login ID and password. If you will delete it, login process won't work.
+- When you run this file it create a ``.txt file`` in the same directory which contains the login ID and password. If you will delete it, login process won't work.
 - It will also create a ``game.exe`` executable which you can run for playing the game. 
-- One of the drawback of this project is that, you cannot skip the question. 
+- One of the ``drawback`` of this project is that, you cannot skip the question. 
 
 ### Connect
 <p>
