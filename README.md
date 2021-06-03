@@ -1,9 +1,9 @@
 
 ## Quiz game
-![buil](https://img.shields.io/badge/contributors-1-blue)
 ![buil](https://img.shields.io/badge/build-passing-brightgreen)
 ![main](https://img.shields.io/badge/maintained-no-red)
-![lang](https://img.shields.io/badge/Language-C++-brightgreen)
+
+![Spinner](https://img.shields.io/badge/C++%20-0d6efd.svg?style=for-the-badge)
 
 ### Intro
 It is my first project. It is a console-based quiz game made using ``c++`` with login, sign-up functionality. You can select a topic ``( sports, science, C++, Maths )`` for the quiz. Once a topic is selected the game will show rules which will say +10 for the correct answer and -5 for the wrong answer.
