@@ -1,5 +1,6 @@
 
 ## Quiz game
+![buil](https://img.shields.io/badge/contributors-1-blue)
 ![buil](https://img.shields.io/badge/build-passing-brightgreen)
 ![main](https://img.shields.io/badge/maintained-no-red)
 ![lang](https://img.shields.io/badge/Language-C++-brightgreen)
