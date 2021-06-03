@@ -21,4 +21,11 @@ Once you have press any key on the keyboard the game will start loading 10 quest
 - One of the drawback of this project is that, you cannot skip the question. 
 
 ### Connect
+<p>
+
+ [Twitter](https://twitter.com/aps08__)
+ [Medium](https://medium.com/@aps08)
+ [LinkedIn](https://www.linkedin.com/in/aps08/)
+ [Youtube](https://www.youtube.com/channel/UCu_vHY1svvi8mRjccSpSfbw)
+</p>
 
